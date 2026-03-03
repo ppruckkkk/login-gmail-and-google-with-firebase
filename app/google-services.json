@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90614285274",
+    "project_id": "coffekotlin",
+    "storage_bucket": "coffekotlin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90614285274:android:20202cf588e980cd1db6e3",
+        "android_client_info": {
+          "package_name": "com.example.firebasekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhhCv6F8p1bnYQIRs8tR0uDW8HrWuidFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
